@@ -17,7 +17,7 @@ ________________________________________________________________________________
 ________________________________________________________________________________________________________________________________________________________
 ### Dependency Injection yapısı için özet olarak  eden Controller içerisinde ICoordinate interface'ni implement eden hangi Service ile çalışmak istiyorsak Program.cs 'de o servisi vericez 
 ### örnek: builder.Services.AddScoped<ICoordinate, CoordinatePostgreSql>(); veya  builder.Services.AddScoped<ICoordinate, CoordinateService>();
-### Bu sayede CoordinatesController içerisinde hangisi service ile çalışmak istiyorsak Constructor içerisinde parametre olarak Program.cs de tarafında kullanmak istediğimiz service'i göndericez.
+### Bu sayede CoordinatesController içerisinde hangisi service ile çalışmak istiyorsak Constructor içerisinde parametre olarak Program.cs de tarafından gönderilen ICoordinate tipinde bir sınıf alıyoruz ve o Service'in metotlarını kullanıyoruz.
 ![Ekran Görüntüsü (346)](https://github.com/user-attachments/assets/a57fd576-4ffc-4be5-bc20-37b743e9a784)
 ________________________________________________________________________________________________________________________________________________________
 ### Program.cs'De Dependency Injection yapısı için yazdığım yorumlar:
@@ -32,4 +32,19 @@ ________________________________________________________________________________
 ________________________________________________________________________________________________________________________________________________________
 ### Oluşturulabilecek tüm Repository'ler için "Generic Repository" oluşturulma sebebi her Respository için veritabanı işlemlerini (CRUD) ayrı ayrı Repositoryler içerisinde metot oluşturmak yerine bir defa GenericRepository Class'ında yazma ve "T" yerine gelecek Repository'e(Class'a) göre o Repositorynin(Classın) bu metotlarına kullanabilmesini sağlama.
 ![Ekran Görüntüsü (348)](https://github.com/user-attachments/assets/23d6e1d1-8830-47f9-b504-e1ad01c5a906)
+________________________________________________________________________________________________________________________________________________________
+![Ekran Görüntüsü (349)](https://github.com/user-attachments/assets/d9eda6cc-a8d7-4e2a-b67e-1ccb969ad402)
+________________________________________________________________________________________________________________________________________________________
+## Swagger
+![Ekran Görüntüsü (326)](https://github.com/user-attachments/assets/4ba618cd-53b5-448f-8847-0718730fd85b)
+![Ekran Görüntüsü (327)](https://github.com/user-attachments/assets/7fa58d85-8232-44da-8750-ef81dc9a96a6)
+![Ekran Görüntüsü (328)](https://github.com/user-attachments/assets/690f5166-9b8f-4214-815a-5b0032390f92)
+![Ekran Görüntüsü (329)](https://github.com/user-attachments/assets/5b4708f6-6afe-4ebc-a206-d55c95ef98e7)
+![Ekran Görüntüsü (330)](https://github.com/user-attachments/assets/0f1f65b5-3da8-4484-8447-40b5e12047d8)
+![Ekran Görüntüsü (332)](https://github.com/user-attachments/assets/5b7a0415-8df3-41ae-b322-969031723a3a)
+![Ekran Görüntüsü (333)](https://github.com/user-attachments/assets/4bf9fcab-3af8-4955-9be5-69a3a745fa79)
+![Ekran Görüntüsü (334)](https://github.com/user-attachments/assets/303ae8c6-5ea7-4343-959b-5759744b4f36)
+![Ekran Görüntüsü (335)](https://github.com/user-attachments/assets/2c6be8eb-d6be-4ff8-9b6f-0eb16917dd69)
+
+
 
