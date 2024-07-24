@@ -30,9 +30,13 @@ ________________________________________________________________________________
 ### Geriye Response döndürmek için kullandığım Response Class'ı:
 ![Ekran Görüntüsü (344)](https://github.com/user-attachments/assets/2cb0bf41-37ed-44db-a8c8-d769b4099c7c)
 ________________________________________________________________________________________________________________________________________________________
-### Oluşturulabilecek tüm Repository'ler için "Generic Repository" oluşturulma sebebi her Respository için veritabanı işlemlerini (CRUD) ayrı ayrı Repositoryler içerisinde metot oluşturmak yerine bir defa GenericRepository Class'ında yazma ve "T" yerine gelecek Repository'e(Class'a) göre o Repositorynin(Classın) bu metotlarına kullanabilmesini sağlama.
+###  Generic Repository : Oluşturulabilecek tüm Repository'ler için "Generic Repository" oluşturulma sebebi her Respository için veritabanı işlemlerini (CRUD) ayrı ayrı Repositoryler içerisinde metot oluşturmak yerine bir defa GenericRepository Class'ında yazma ve "T" yerine gelecek Repository'e(Class'a) göre o Repositorynin(Classın) bu metotlarına kullanabilmesini sağlama.
 ![Ekran Görüntüsü (348)](https://github.com/user-attachments/assets/23d6e1d1-8830-47f9-b504-e1ad01c5a906)
 ________________________________________________________________________________________________________________________________________________________
+### IGenericRepository
+![Ekran Görüntüsü (350)](https://github.com/user-attachments/assets/9e503c2b-3002-4ab9-84e3-f8fcf895f1ef)
+________________________________________________________________________________________________________________________________________________________
+### UnitOfWork
 ![Ekran Görüntüsü (349)](https://github.com/user-attachments/assets/d9eda6cc-a8d7-4e2a-b67e-1ccb969ad402)
 ________________________________________________________________________________________________________________________________________________________
 ## Swagger
@@ -45,6 +49,10 @@ ________________________________________________________________________________
 ![Ekran Görüntüsü (333)](https://github.com/user-attachments/assets/c4291a4f-3e68-401b-a7c4-067756fe9365)
 ![Ekran Görüntüsü (334)](https://github.com/user-attachments/assets/363f7632-7674-4293-bc1e-44efa03d4fae)
 ![Ekran Görüntüsü (335)](https://github.com/user-attachments/assets/6ad7e39d-938c-48c6-978f-f93a71b2648c)
+________________________________________________________________________________________________________________________________________________________
+
+
+
 
 
 
