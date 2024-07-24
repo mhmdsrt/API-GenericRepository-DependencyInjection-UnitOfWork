@@ -36,15 +36,16 @@ ________________________________________________________________________________
 ![Ekran Görüntüsü (349)](https://github.com/user-attachments/assets/d9eda6cc-a8d7-4e2a-b67e-1ccb969ad402)
 ________________________________________________________________________________________________________________________________________________________
 ## Swagger
-![Ekran Görüntüsü (326)](https://github.com/user-attachments/assets/4ba618cd-53b5-448f-8847-0718730fd85b)
-![Ekran Görüntüsü (327)](https://github.com/user-attachments/assets/7fa58d85-8232-44da-8750-ef81dc9a96a6)
-![Ekran Görüntüsü (328)](https://github.com/user-attachments/assets/690f5166-9b8f-4214-815a-5b0032390f92)
-![Ekran Görüntüsü (329)](https://github.com/user-attachments/assets/5b4708f6-6afe-4ebc-a206-d55c95ef98e7)
-![Ekran Görüntüsü (330)](https://github.com/user-attachments/assets/0f1f65b5-3da8-4484-8447-40b5e12047d8)
-![Ekran Görüntüsü (332)](https://github.com/user-attachments/assets/5b7a0415-8df3-41ae-b322-969031723a3a)
-![Ekran Görüntüsü (333)](https://github.com/user-attachments/assets/4bf9fcab-3af8-4955-9be5-69a3a745fa79)
-![Ekran Görüntüsü (334)](https://github.com/user-attachments/assets/303ae8c6-5ea7-4343-959b-5759744b4f36)
-![Ekran Görüntüsü (335)](https://github.com/user-attachments/assets/2c6be8eb-d6be-4ff8-9b6f-0eb16917dd69)
+![Ekran Görüntüsü (326)](https://github.com/user-attachments/assets/0de63edc-f9b7-4383-b222-7b9fa56636b0)
+![Ekran Görüntüsü (327)](https://github.com/user-attachments/assets/bbb81da0-3fcd-42e9-b547-394c7530422f)
+![Ekran Görüntüsü (328)](https://github.com/user-attachments/assets/9a650518-735d-4d36-8db4-f48f25d255cf)
+![Ekran Görüntüsü (329)](https://github.com/user-attachments/assets/1cbc7316-b310-4152-b71b-47e6cb9d6137)
+![Ekran Görüntüsü (330)](https://github.com/user-attachments/assets/897625f4-ad38-47ae-9ba1-782e94a4136e)
+![Ekran Görüntüsü (332)](https://github.com/user-attachments/assets/f73ccd66-06dc-43a9-b7f8-7d14033ee4aa)
+![Ekran Görüntüsü (333)](https://github.com/user-attachments/assets/c4291a4f-3e68-401b-a7c4-067756fe9365)
+![Ekran Görüntüsü (334)](https://github.com/user-attachments/assets/363f7632-7674-4293-bc1e-44efa03d4fae)
+![Ekran Görüntüsü (335)](https://github.com/user-attachments/assets/6ad7e39d-938c-48c6-978f-f93a71b2648c)
+
 
 
 
