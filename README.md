@@ -28,6 +28,6 @@ ________________________________________________________________________________
 ### Geriye Response döndürmek için kullandığım Response Class'ı:
 ![Ekran Görüntüsü (344)](https://github.com/user-attachments/assets/2cb0bf41-37ed-44db-a8c8-d769b4099c7c)
 ________________________________________________________________________________________________________________________________________________________
-### Oluşturulabilecek tüm Repository'ler için Generic Repository -> oluşturulma sebebi Her Respository için veritabanı işlemlerini (CRUD) ayrı ayrı metot oluşturmak yerine bir defa GenericRepository Class'ında yazma ve "T" yerine gelecek Repository'e(Class'a) göre o Repositorynin(Classın) bu metotlarına kullanabilmesini sağlama.
+### Oluşturulabilecek tüm Repository'ler için "Generic Repository" oluşturulma sebebi her Respository için veritabanı işlemlerini (CRUD) ayrı ayrı Repositoryler içerisinde metot oluşturmak yerine bir defa GenericRepository Class'ında yazma ve "T" yerine gelecek Repository'e(Class'a) göre o Repositorynin(Classın) bu metotlarına kullanabilmesini sağlama.
 ![Ekran Görüntüsü (348)](https://github.com/user-attachments/assets/23d6e1d1-8830-47f9-b504-e1ad01c5a906)
 
