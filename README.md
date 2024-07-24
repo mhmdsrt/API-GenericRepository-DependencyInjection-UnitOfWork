@@ -15,7 +15,9 @@ ________________________________________________________________________________
 ### 3) IEntityService interface'ni implement eden ORM teknolojisi olarak Entity-Framework(CodeFirst Yaklaşımı) kullandığım EntityService Sınıfım:
 ![Ekran Görüntüsü (342)](https://github.com/user-attachments/assets/a1602902-496b-4fcf-886e-a1a5b2b5624e)
 ________________________________________________________________________________________________________________________________________________________
-### Dependency Injection yapısı için yazdığım yorumlar: Özet olarak  eden Controller içerisinde aynı Interface'i implement hangi Service ile çalışmak istiyorsak
+### Dependency Injection yapısı için özet olarak  eden Controller içerisinde ICoordinate interface'ni implement eden hangi Service ile çalışmak istiyorsak Program.cs 'de o servisi vericez 
+### örnek: builder.Services.AddScoped<ICoordinate, CoordinatePostgreSql>(); veya  builder.Services.AddScoped<ICoordinate, CoordinateService>();
+### Bu sayede CoordinatesController içerisinde hangisi service ile çalışmak istiyorsak Constructor içerisinde parametre olarak Program.cs de tarafında kullanmak istediğimiz service'i göndericez.
 ![Ekran Görüntüsü (346)](https://github.com/user-attachments/assets/a57fd576-4ffc-4be5-bc20-37b743e9a784)
 ________________________________________________________________________________________________________________________________________________________
 ### Program.cs'De Dependency Injection yapısı için yazdığım yorumlar:
