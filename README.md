@@ -20,7 +20,7 @@ ________________________________________________________________________________
 ### Bu sayede CoordinatesController içerisinde hangisi service ile çalışmak istiyorsak Constructor içerisinde parametre olarak Program.cs de tarafından gönderilen ICoordinate tipinde bir sınıf alıyoruz ve o Service'in metotlarını kullanıyoruz.
 ![Ekran Görüntüsü (346)](https://github.com/user-attachments/assets/a57fd576-4ffc-4be5-bc20-37b743e9a784)
 ________________________________________________________________________________________________________________________________________________________
-### Program.cs'De Dependency Injection yapısı için yazdığım yorumlar:
+### Program.cs'De Dependency Injection yapısı için yazdığım yorumlar :
 
 ![Ekran Görüntüsü (347)](https://github.com/user-attachments/assets/e9ebc088-8061-4b80-83eb-4b545e255d48)
 ________________________________________________________________________________________________________________________________________________________
