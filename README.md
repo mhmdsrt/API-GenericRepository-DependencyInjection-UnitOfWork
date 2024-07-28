@@ -50,7 +50,7 @@ ________________________________________________________________________________
 ![Ekran Görüntüsü (334)](https://github.com/user-attachments/assets/363f7632-7674-4293-bc1e-44efa03d4fae)
 ![Ekran Görüntüsü (335)](https://github.com/user-attachments/assets/6ad7e39d-938c-48c6-978f-f93a71b2648c)
 ________________________________________________________________________________________________________________________________________________________
-# Ayrıca Web Apı ile ilgili kendi çıkardığım notları WebServices isimli word dosyasına resimlerler beraber ekledim.
+# Ayrıca Web Api ile ilgili kendi çıkardığım notları WebServices isimli word dosyasına resimlerler beraber ekledim.
 ![Ekran Görüntüsü (351)](https://github.com/user-attachments/assets/3247c3e2-47a8-4b10-9e45-feca398b31a8)
 ![Ekran Görüntüsü (352)](https://github.com/user-attachments/assets/b23c570f-4593-45a1-b042-4b06efc0bfc1)
 
