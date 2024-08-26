@@ -17,7 +17,7 @@ ________________________________________________________________________________
 ________________________________________________________________________________________________________________________________________________________
 # 💎Dependency Injection yapısı için özet olarak CoordinatesController içerisinde ICoordinate interface'ni implement eden hangi Service ile çalışmak istiyorsak Program.cs 'de o servisi vericez.
 # 🪁 Örnek: builder.Services.AddScoped<ICoordinate, CoordinatePostgreSql>(); veya  builder.Services.AddScoped<ICoordinate, CoordinateService>();
-# Bu sayede CoordinatesController içerisinde hangisi service ile çalışmak istiyorsak Constructor içerisinde parametre olarak Program.cs de tarafından gönderilen ICoordinate tipinde bir sınıf alıyoruz ve o Service'in metotlarını kullanıyoruz.
+# 🏹 Bu sayede CoordinatesController içerisinde hangisi service ile çalışmak istiyorsak Constructor içerisinde parametre olarak Program.cs de tarafından gönderilen ICoordinate tipinde bir sınıf alıyoruz ve o Service'in metotlarını kullanıyoruz.
 ![Ekran Görüntüsü (346)](https://github.com/user-attachments/assets/a57fd576-4ffc-4be5-bc20-37b743e9a784)
 ________________________________________________________________________________________________________________________________________________________
 # 💎Program.cs'De Dependency Injection yapısı için yazdığım yorumlar :
