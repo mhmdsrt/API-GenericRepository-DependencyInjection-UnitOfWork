@@ -2,7 +2,7 @@
 # ✅ Başarsoft şirketindeki yaz stajımda harita projemizin Back-end tarafında öğrendiğim ve uyguladığım konular:
 
 ## 📌 Web Api(with Swagger) 
-#v 📌 Dependency Injection 
+## 📌 Dependency Injection 
 ## 📌 Generic Repository Design Pattern
 ## 📌 UnitOfWork Design Pattern 
 ## 📌 PostgreSQL
